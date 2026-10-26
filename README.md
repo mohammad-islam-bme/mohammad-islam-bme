@@ -5,7 +5,7 @@ Biomedical engineer (BEng, and MSc Biomedical Engineering at Queen Mary) moving 
 ## What I'm working on
 
 - Building foundations in Python, SQL and statistics
-- **Car Part Finder:** a website that helps people source vehicle parts at lower prices, currently in development
+- **Car Part Finder:** a live parts-request website that identifies a car from its registration and sources the right part
 - A health-data machine learning project (planned)
 
 ## Background
