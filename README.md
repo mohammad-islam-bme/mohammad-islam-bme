@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohammad
 
-<!--
-**mohammad-islam-bme/mohammad-islam-bme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical engineer (BEng, and MSc Biomedical Engineering at Queen Mary) moving into AI and machine learning for healthcare.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building foundations in Python, SQL and statistics
+- **Car Part Finder:** a website that helps people source vehicle parts at lower prices, currently in development
+- A health-data machine learning project (planned)
+
+## Background
+
+- BEng Biomedical Engineering, City St George's, University of London
+- MSc Biomedical Engineering (Merit), Queen Mary University of London
+- MSc dissertation: Raman microscopy of skin tissue under mechanical stress, covering experimental research, data analysis and engineering design
+
+## Interests
+
+Healthcare AI, medical devices, data and signal processing
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mohammad-islam-a330432b3/)
